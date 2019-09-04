@@ -2,14 +2,14 @@
 {
   "id": 1,
   "name": "Leonardo da Vinci",
-  "image": "/images/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg",
+  "image": "images/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg",
   "occupation": "Fry Cook",
   "location": "A Pineapple Under the Sea"
 },
 {
   "id": 2,
   "name": "Michelangelo",
-  "image": "/images/michelangelo-facts-7.jpg",
+  "image": "images/michelangelo-facts-7.jpg",
   "occupation": "Restaurant Owner",
   "location": "A Giant Anchor"
 },
@@ -23,65 +23,64 @@
 {
   "id": 4,
   "name": "Albrecht Durer",
-  "image": "/images/800px-Albrecht_Dürer_-_1500_self-portrait_(High_resolution_and_detail).jpg",
+  "image": "images/800px-Albrecht_Dürer_-_1500_self-portrait_(High_resolution_and_detail).jpg",
   "occupation": "Boy Genius",
   "location": "A Secret Laboratory"
 },
 {
   "id": 5,
   "name": "Caravaggio",
-  "image": "/images/800px-Bild-Ottavio_Leoni,_Caravaggio.jpg",
+  "image": "images/800px-Bild-Ottavio_Leoni,_Caravaggio.jpg",
   "occupation": "A Cowardly Dog",
   "location": "Nowhere, Kansas"
 },
 {
   "id": 6,
   "name": "Rembrandt",
-  "image": "/images/800px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg",
+  "image": "images/800px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg",
   "occupation": "Student",
   "location": "Bluffington"
 },
 {
   "id": 7,
   "name": "Botticelli",
-  "image": "/images/Sandro_Botticelli_083.jpg",
+  "image": "images/Sandro_Botticelli_083.jpg",
   "occupation": "Looney Toon",
   "location": "A Rabbit Burrow"
 },
 {
   "id": 8,
   "name": "Bougereau",
-  "image": "/images/Self_portrait,_by_William_Bouguereau.jpg",
+  "image": "images/Self_portrait,_by_William_Bouguereau.jpg",
   "occupation": "Ladies Man",
   "location": "Aron City"
 },
 {
   "id": 9,
   "name": "Waterhouse",
-  "image": "/images/800px-John_William_Waterhouse_001.jpg",
+  "image": "images/800px-John_William_Waterhouse_001.jpg",
   "occupation": "Adventurer",
   "location": "California"
 },
 {
   "id": 10,
   "name": "Whistler",
-  "image": "/images/800px-Whistler_Selbstporträt.jpg",
+  "image": "images/800px-Whistler_Selbstporträt.jpg",
   "occupation": "Cashier",
   "location": "O-Town, California"
 },
 {
   "id": 11,
   "name": "Jan van Eyck",
-  "image": "/images/800px-Portrait_of_a_Man_in_a_Turban_(Jan_van_Eyck)_with_frame.jpg",
+  "image": "images/800px-Portrait_of_a_Man_in_a_Turban_(Jan_van_Eyck)_with_frame.jpg",
   "occupation": "Superhero",
   "location": "Earth"
 },
 {
   "id": 12,
   "name": "Gainsborough",
-  "image": "/images/800px-Thomas_Gainsborough_by_Thomas_Gainsborough.jpg",
+  "image": "images/800px-Thomas_Gainsborough_by_Thomas_Gainsborough.jpg",
   "occupation": "Ahhhh! A Real Monster!",
   "location": "Under a City Dump"
 }
-
 ]
