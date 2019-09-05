@@ -14,7 +14,7 @@ Your high score will be reset after each session.
 ### To Use
 Click on an image to start!
 
-<img src="./public/images/example.jpg" width="800">
+<img src="./clicky.JPG" width="800">
  
 ## Built With
 * node.js
